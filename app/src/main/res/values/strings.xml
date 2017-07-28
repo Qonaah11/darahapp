@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Donor Darah</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Keluar</string>
+    <string name="text_back">Tekan sekali lagi untuk keluar</string>
+
+    <string name="dummy_content">Tempat makan lesehan</string>
+    <string name="text_show">Tampilkan</string>
+    <string name="tex_ambil_gambar">Ambil gambar</string>
+    <string name="text_nama_kategori">Nama kategori</string>
+    <string name="text_simpan">Simpan</string>
+    <string name="text_pilih_kategori_gambar">Pilih kategori gambar</string>
+    <string name="text_nama_gambar">Nama gambar</string>
+    <string name="text_menambah_kategori">Menambah Kategori</string>
+    <string name="text_menghapus_kategori">Menghapus Kategori</string>
+    <string name="text_ubah_nama_amp_icon_kategori"><![CDATA[Ubah Nama & Icon Kategori]]></string>
+    <string name="text_menambah_gambar">Menambah Gambar</string>
+    <string name="text_menghapus_gambar">Menghapus Gambar</string>
+    <string name="text_ubah_nama_amp_icon_gambar"><![CDATA[Ubah Nama & Icon Gambar]]></string>
+    <string name="text_riwayat_aplikasi">Riwayat Aplikasi</string>
+    <string name="text_hapus_riwayat_aplikasi">Hapus Riwayat Aplikasi</string>
+    <string name="text_reset">Reset</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+
+</resources>

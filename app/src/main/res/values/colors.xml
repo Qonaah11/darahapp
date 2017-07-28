@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f74862f2</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#d64a79</color>
+    <color name="white">#fffeff</color>
+    <color name="background">#3E4095</color>
+    <color name="background_button">#3187f1</color>
+    <color name="gray_title_text">#575151</color>
+    <color name="gray_ripple">#999797</color>
+    <color name="header_color">#6D4C41</color>
+</resources>

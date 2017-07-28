@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_donor_darah"
+            android:icon="@drawable/ic_favorite_red_400_24dp"
+            android:title="Jadwal Donor Darah" />
+        <item
+            android:id="@+id/nav_stok_darah"
+            android:icon="@drawable/ic_favorite_red_400_24dp"
+            android:title="Stok Darah" />
+        <item
+            android:id="@+id/nav_tahukah"
+            android:icon="@drawable/ic_favorite_red_400_24dp"
+            android:title="Tahukah Kamu?" />
+        <item
+            android:id="@+id/nav_tentang"
+            android:icon="@drawable/ic_favorite_red_400_24dp"
+            android:title="Tentang Aplikasi" />
+    </group>
+
+    <item android:title="Kontak">
+        <menu>
+            <item
+                android:id="@+id/nav_kontak"
+                android:icon="@drawable/ic_call_red_400_24dp"
+                android:title="Palang Merah Indonesia" />
+            <item
+                android:id="@+id/nav_panggilan_darurat"
+                android:icon="@drawable/ic_call_red_400_24dp"
+                android:title="Panggilan Darurat" />
+        </menu>
+    </item>
+
+</menu>
